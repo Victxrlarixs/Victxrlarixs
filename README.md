@@ -1,5 +1,5 @@
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/victxrlarixs "Contact on Telegram")
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorhumbertolariosmoreno@gmail.com "Connect via Email")
+[![Telegram Badge](https://img.shields.io/badge/-@VictxrLarixs-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/victxrlarixs "Contact on Telegram")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorhumbertolariosmoreno@gmail.com "Connect via Email")
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victxrlarixs&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victxrlarixs&layout=compact)](https://github.com/victxrlarixs/github-readme-stats)
