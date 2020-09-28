@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorhumbertolariosmoreno@gmail.com "Connect via Email")
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victxrlarixs&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victxrlarixs&layout=compact)](https://github.com/victxrlarixs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victxrlarixs&&count_private=truelayout=compact)(https://github.com/victxrlarixs/github-readme-stats)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
