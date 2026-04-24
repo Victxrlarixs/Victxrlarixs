@@ -6,5 +6,4 @@
 [![Devuan](https://img.shields.io/badge/Devuan-233A5E?style=flat&logo=devuan&logoColor=white)](https://www.devuan.org/)
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)](https://www.centos.org/)
 [![macOS X](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-
 ![Terminal](https://img.shields.io/badge/CLI-Lover-black?style=flat&logo=gnubash&logoColor=white)
