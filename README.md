@@ -7,14 +7,3 @@
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)](https://www.centos.org/)
 [![macOS X](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 ![Terminal](https://img.shields.io/badge/CLI-Lover-black?style=flat&logo=gnubash&logoColor=white)
-
-
-## Stars History
-
-<a href="https://www.star-history.com/?repos=Victxrlarixs%2Fdebian-time-capsule%2CVictxrlarixs%2Fr2d2-monitor&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Victxrlarixs/debian-time-capsule%2CVictxrlarixs/r2d2-monitor&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Victxrlarixs/debian-time-capsule%2CVictxrlarixs/r2d2-monitor&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Victxrlarixs/debian-time-capsule%2CVictxrlarixs/r2d2-monitor&type=date&legend=top-left" />
- </picture>
-</a>
