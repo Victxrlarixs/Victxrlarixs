@@ -9,7 +9,7 @@
 ![Terminal](https://img.shields.io/badge/CLI-Lover-black?style=flat&logo=gnubash&logoColor=white)
 
 
-## Star History
+## Stars History
 
 <a href="https://www.star-history.com/?repos=Victxrlarixs%2Fdebian-time-capsule%2CVictxrlarixs%2Fr2d2-monitor&type=date&legend=top-left">
  <picture>
